@@ -183,7 +183,7 @@ During development, I worked on combining multiple environmental inputs into a s
 
 The project also helped me recognise the importance of testing, responsible communication of results, and clearly explaining the limitations of a rule-based system.
 
-I used ChatGPT as a learning and troubleshooting aid during development, particularly for guidance on package installation, resolving technical issues, and understanding programming concepts. I tested the project and worked to understand how its components operate.
+I used the internet as a learning and troubleshooting aid during development, particularly for guidance on package installation, resolving technical issues, and understanding programming concepts. I tested the project and worked to understand how its components operate.
 
 ## 12. Conclusion
 
